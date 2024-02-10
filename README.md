@@ -1,6 +1,9 @@
 # belly-button-challenge
 Belly-Button Challenge related files are in the repository
 
+## Solution
+In the belly-button-challenge folder, you will find the index.html and there is one folder called static, in which you will find a folder called js that has a file called 'app.js' which is the JavaScript code.
+
 ## Background
 Build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
 
