@@ -25,13 +25,12 @@ The dataset reveals that a small handful of microbial species (also called opera
 ![output](BubbleChart.png)
 
 
-## Sources and Support
-Support from the BCS to understand the assignment and worked with my classmate Jeff. 
-
-
 
 3. Display the sample metadata, i.e., an individual's demographic information.
 
 
 ![output](Demographic.png)
 
+
+## Sources and Support
+Support from the BCS to understand the assignment and worked with my classmate Jeff. 
