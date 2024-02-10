@@ -70,7 +70,7 @@ function buildBarChart(sample) {
 
         // Setup the layout
         let layout = {
-            title: "Top 10 OTUs Present"
+            title: "Top 10 OTUs"
         };
 
         // Call Plotly to plot the bar chart
@@ -114,7 +114,7 @@ function buildBubbleChart(sample) {
 
         // Set up the layout
         let layout = {
-            title: "Bacteria Per Sample",
+            title: "Bacteria Per Sample Size",
             hovermode: "closest",
             xaxis: {title: "OTU ID"},
         };
