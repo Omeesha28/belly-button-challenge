@@ -19,7 +19,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 
-3. Create a bubble chart that displays each sample.
+2. Create a bubble chart that displays each sample.
 
    
 ![output](BubbleChart.png)
@@ -27,7 +27,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 
-4. Display the sample metadata, i.e., an individual's demographic information.
+3. Display the sample metadata, i.e., an individual's demographic information.
 
 
 ![output](Demographic.png)
